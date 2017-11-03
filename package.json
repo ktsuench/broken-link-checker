@@ -1,7 +1,7 @@
 {
   "name": "broken-link-checker",
   "description": "Find broken links, missing images, etc in your HTML.",
-  "version": "0.7.6",
+  "version": "0.7.7",
   "license": "MIT",
   "homepage": "https://github.com/stevenvachon/broken-link-checker",
   "author": {
@@ -43,7 +43,7 @@
     "robots-txt-guard": "~0.1.0",
     "robots-txt-parse": "~0.0.4",
     "urlcache": "~0.6.0",
-    "urlobj": "0.0.10"
+    "urlobj": "https://github.com/ktsuench/urlobj"
   },
   "devDependencies": {
     "chai": "^3.5.0",
